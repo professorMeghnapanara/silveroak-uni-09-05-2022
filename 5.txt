@@ -1,0 +1,5 @@
+*Types of CSS & its preferences.
+1.) inline
+2.) external
+3.) internal 
+* internal external and internal using 1 programme 
